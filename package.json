@@ -1,0 +1,30 @@
+{
+  "name": "vurl",
+  "version": "1.0.0",
+  "description": "Make a url look like vargs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "vargs"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "minimist": "^1.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollowdoor/vurl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hollowdoor/vurl/issues"
+  },
+  "homepage": "https://github.com/hollowdoor/vurl#readme"
+}
